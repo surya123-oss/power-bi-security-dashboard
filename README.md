@@ -2,7 +2,7 @@
 
 An interactive Power BI report that simulates a mini Security Operations Center (SOC) view of cybersecurity incidents from January to May.
 
-![Dashboard preview](preview.png)
+![Dashboard preview](preview1.png)
 
 ## What it shows
 - **Total, open and critical incidents** at a glance
